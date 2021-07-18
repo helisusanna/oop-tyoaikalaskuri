@@ -1,0 +1,7 @@
+C:\Users\heli\source\repos\lisatehtava\obj\Debug\lisatehtava.csprojAssemblyReference.cache
+C:\Users\heli\source\repos\lisatehtava\obj\Debug\lisatehtava.csproj.CoreCompileInputs.cache
+C:\Users\heli\source\repos\lisatehtava\bin\Debug\lisatehtava.exe.config
+C:\Users\heli\source\repos\lisatehtava\bin\Debug\lisatehtava.exe
+C:\Users\heli\source\repos\lisatehtava\bin\Debug\lisatehtava.pdb
+C:\Users\heli\source\repos\lisatehtava\obj\Debug\lisatehtava.exe
+C:\Users\heli\source\repos\lisatehtava\obj\Debug\lisatehtava.pdb
